@@ -1,0 +1,2 @@
+# Benchmark harness: Python standard library only — nothing to install.
+#   python kibo_fair_test.py        # runs fully offline, reproducible
